@@ -1,0 +1,7 @@
+Termux-setup-storge
+apt update
+apt(PKG) upgrade
+PKG install git curl openssh php -y
+git clone http://GitHub.com/htr-tech/zphisher.git
+Cd zphisher
+bash zphisher
